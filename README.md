@@ -23,7 +23,7 @@ Vous allez mettre en pratique ces notions à travers la **mise en forme complèt
    - L’énoncé complet du TP est déposé sur **GitHub**.
 
 2. **Création de votre espace de travail**
-   - Forker ce repo, puis clonez votre dépôt individuel.
+   - Clonez ensuite votre dépôt individuel.
 
 3. **Réalisation**
    - Complétez le fichier **`style.css`** dans le dossier de **chaque étape**.
